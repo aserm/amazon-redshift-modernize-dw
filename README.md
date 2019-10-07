@@ -34,8 +34,8 @@ This sample code is made available under a modified MIT license. See the LICENSE
 	* Plan for the future.
 
 ## Account Login and Redshift Cluster Spin-up
-* You have the option to use workshops credits with your account or get a temporary account (slip of paper).
-* Log into AWS using the provided placeholder credentials, then switch the **us-west-2**.
+* You have the option to use your corporate account, workshop credits with your own account, or get a temporary account (slip of paper).
+* Log into AWS using the provided placeholder credentials, then switch to the **us-west-2** region.
 * We are here to help, please don’t hesitate to ask for assistance!
 * Create a Redshift - Customizable accessible IAM role to query S3 data, giving the role read-only access to all Amazon S3 buckets. Make sure to choose **AmazonS3ReadOnlyAccess** and **AWSGlueConsoleFullAccess** Use the steps in the link below to create the IAM role:
 
